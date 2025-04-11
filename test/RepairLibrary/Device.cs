@@ -6,7 +6,7 @@ namespace RepairLibrary
     {
         Warranty,
         Paid
-    }
+    } 
 
     public class Device
     {
